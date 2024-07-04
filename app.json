@@ -1,0 +1,37 @@
+{
+  "id": "2d8e35bf-a6d2-4349-bdd9-d3014fa584e2",
+  "name": "STD_TN",
+  "publisher": "Talan",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "dependencies": [   
+    {
+      "id": "e5e161d4-6ced-4889-9bbc-1d78c90298c0",
+      "name": "REFERENTIEL",
+      "publisher": "Discovery Informatique",
+      "version": "1.0.0.0"
+    } 
+  ],
+  "idRanges": [
+    {
+      "from": 50251,
+      "to": 50300
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "13.0",
+  "target": "OnPrem"
+}
